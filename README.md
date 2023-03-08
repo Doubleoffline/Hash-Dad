@@ -4,13 +4,13 @@ Hash Dad is a simple command-line tool written in Python that can crack password
 
 # How to use
 
-1.Clone the repository by running git clone https://github.com/Doubleoffline/Hash-Dad.git in your terminal.
+1. Clone the repository by running git clone https://github.com/Doubleoffline/Hash-Dad.git in your terminal.
 
-2.Navigate to the project directory by running cd hash-dad.
+2. Navigate to the project directory by running cd hash-dad.
 
-3.Run the script by running python hash_dad.py.
+3. Run the script by running python hash_dad.py.
 
-4.Follow the on-screen prompts to specify the hash type, the hash to crack, and the wordlist file name.
+4. Follow the on-screen prompts to specify the hash type, the hash to crack, and the wordlist file name.
 
 Note: This script requires Python 3 and the hashlib library.
 
